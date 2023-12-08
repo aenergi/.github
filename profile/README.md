@@ -1,4 +1,4 @@
-# Hi and welcome to Å Energi @ GitHub!
+# Hi, welcome to Å Energi @ GitHub!
 
 It's a pleasure to have you join our organisation on GitHub. We have a few important things you should check out before you continue, to ensure that we all work well together.
 
