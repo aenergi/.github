@@ -43,3 +43,10 @@ Membership in teams are managed using Entra ID groups, not manually on GitHub.
 ## Team Syncronization
 
 Teams are automatically synced based upon membership on Entra ID groups. When you manage access control on GitHub, give access to Teams, not individual users.
+
+
+## GitHub Copilot
+
+To use GitHub Copilot, you must first actiev the license on your GitHub account and associating it with Å Energi.
+
+[Getting started with GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot)
