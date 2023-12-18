@@ -8,6 +8,17 @@ For team syncronization to work, you need to ensure you have your corporate e-ma
 
 Navigate here to add your corporate e-mail address: [https://github.com/settings/emails](https://github.com/settings/emails)
 
+## Repository Migration
+
+Migration of git repositories from Azure DevOps to GitHub can be provided by Sondre Bjellås. Contact Sondre on Teams and provide the following information:
+
+- DevOps instance name
+- Team project name
+- Repository name (DevOps)
+- Repository name (GitHub)
+
+Repositories will be set to internal visibility by default, which means it's accessible to all developers in ther organisation. If you want a different (private), please let us know.
+
 ## Creating new repositories
 
 Make sure you follow the naming guidelines when you create a new repository. This helps us keep a nice and tidy setup where everyone can more easily find the various repositories. Remember that all repositories is a flat structure.
