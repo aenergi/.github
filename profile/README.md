@@ -51,6 +51,8 @@ Examples: "g-gh-devex" and "g-gh-flextools".
 
 Membership in teams are managed using Entra ID groups, not manually on GitHub.
 
+Sometimes a team member must be removed and added to an Entra ID Group for sync to work properly. The user needs to signup for GitHub, before being added to the team group.
+
 ## Team Syncronization
 
 Teams are automatically synced based upon membership on Entra ID groups. When you manage access control on GitHub, give access to Teams, not individual users.
