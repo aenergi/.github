@@ -8,6 +8,10 @@ For team syncronization to work, you need to ensure you have your corporate e-ma
 
 Navigate here to add your corporate e-mail address: [https://github.com/settings/emails](https://github.com/settings/emails)
 
+## SSO Linking
+
+If you have not setup the SSO Linking correctly, you can open this URL to complete the process: [https://github.com/orgs/aenergi/sso](https://github.com/orgs/aenergi/sso)
+
 ## Repository Migration
 
 Migration of git repositories from Azure DevOps to GitHub can be provided by Sondre Bjellås. Contact Sondre on Teams and provide the following information:
