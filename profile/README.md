@@ -8,6 +8,6 @@ Are you an Å Energi employee that want access to our GitHub community and all t
 
 2. Go to your profile's settings page and add your Å Energi email address under `Emails`. You will receive a verification email that needs to be confirmed.
 
-3. Login at [myaccess.microsoft.com](https://myaccess.microsoft.com/@kraftsenter.onmicrosoft.com#/access-packages) and select the access package `License - GitHub Enterprise`.
+3. Login at [myaccess.microsoft.com](https://myaccess.microsoft.com/@kraftsenter.onmicrosoft.com#/access-packages) and select the access package [`GitHub Enterprise`](https://myaccess.microsoft.com/@kraftsenter.onmicrosoft.com#/access-packages/599577f1-b114-4d65-ac07-87648990d646).
 
 4. Grab a cup of ☕ and wait for the [DevEx](mailto:devex@aenergi.no) team to approve your request. We can be quite busy some times. If you are in a real hurry, don't send a 🕊️, contact us on Teams instead 🖖
