@@ -1,69 +1,13 @@
-# Hi, welcome to Å Energi @ GitHub!
+# 👋 Hi, welcome to Å Energi @ GitHub!
+Here at Å Energi we use GitHub to create some really cool stuff. But sadly we don't have that much to show right here on GitHub. But go to [developer.aenergi.no](https://developer.aenergi.no/) if you want to browse some more 😉
 
-It's a pleasure to have you join our organisation on GitHub. We have a few important things you should check out before you continue, to ensure that we all work well together.
+## 🔐 Want access?
+If you are an Å Energi employee, or working for any of our subsidiaries like Glitre Nett, Å Entelios, Å Insite, and so on. You can apply for access to our GitHub community and all the sweet stuff 🍭
 
-## Verified Domain E-mail
+1. You need a GitHub account. You can either use a personal account, or create a new one just for your Å Energi tasks 🫡
 
-For team syncronization to work, you need to ensure you have your corporate e-mail address added and verified.
+2. Go to your profile's settings page and add your Å Energi (or subsidiary) email address under `Emails`. You will receive a verification email that needs to be confirmed.
 
-Navigate here to add your corporate e-mail address: [https://github.com/settings/emails](https://github.com/settings/emails)
+3. Login at [myaccess.microsoft.com](https://myaccess.microsoft.com/@kraftsenter.onmicrosoft.com#/access-packages) and select the access package [`GitHub Enterprise`](https://myaccess.microsoft.com/@kraftsenter.onmicrosoft.com#/access-packages/599577f1-b114-4d65-ac07-87648990d646).
 
-## SSO Linking
-
-If you have not setup the SSO Linking correctly, you can open this URL to complete the process: [https://github.com/orgs/aenergi/sso](https://github.com/orgs/aenergi/sso)
-
-## Repository Migration
-
-Migration of git repositories from Azure DevOps to GitHub can be provided by Sondre Bjellås. Contact Sondre on Teams and provide the following information:
-
-- DevOps instance name
-- Team project name
-- Repository name (DevOps)
-- Repository name (GitHub)
-
-Repositories will be set to internal visibility by default, which means it's accessible to all developers in ther organisation. If you want a different (private), please let us know.
-
-## Creating new repositories
-
-Make sure you follow the naming guidelines when you create a new repository. This helps us keep a nice and tidy setup where everyone can more easily find the various repositories. Remember that all repositories is a flat structure.
-
-Everyone invited to our GitHub organisation have read access to all repositories. If this is not acceptable for your needs, the repository can be made "private" instead of the default "internal".
-
-After you make a repository, make sure your team is given access to it.
-
-## Naming conventions
-
-### Repositories
-
-1. Prefix repos with the team or product name.
-2. All lower-case naming.
-3. Add as many sections with dashes (-) that makes sense.
-4. Don't put product specific names in repos, e.g. "arm", "bicep" or "oracle", use generic terminology like "infra" and "db".
-5. Attempt to rely on mono-repo if possible and rely on GitHub Actions with filters to trigger different workflows.
-
-Examples: "devex-infra-corp", "devex-infra-online"
-
-### Teams
-
-Teams should be written with their names in a normal form, with the capitalization that is used and without any special prefix.
-
-Examples: "DevEx" and "Flextools".
-
-The GitHub teams are connected to Entra ID groups, which follows a different naming convention:
-
-Examples: "g-gh-devex" and "g-gh-flextools".
-
-Membership in teams are managed using Entra ID groups, not manually on GitHub.
-
-Sometimes a team member must be removed and added to an Entra ID Group for sync to work properly. The user needs to signup for GitHub, before being added to the team group.
-
-## Team Syncronization
-
-Teams are automatically synced based upon membership on Entra ID groups. When you manage access control on GitHub, give access to Teams, not individual users.
-
-
-## GitHub Copilot
-
-To use GitHub Copilot, you must first actiev the license on your GitHub account and associating it with Å Energi.
-
-[Getting started with GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot)
+4. Grab a cup of ☕ and wait for the [DevEx](mailto:devex@aenergi.no) team to approve your request. We can be quite busy some times. If you are in a real hurry, don't send a 🕊️, contact us on Teams instead 🖖
