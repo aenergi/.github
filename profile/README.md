@@ -10,8 +10,8 @@ If you are an Å Energi employee, or working for any of our subsidiaries like Gl
 
 3. Login at [myaccess.microsoft.com](https://myaccess.microsoft.com/@kraftsenter.onmicrosoft.com#/access-packages) and select the access package [`GitHub Enterprise`](https://myaccess.microsoft.com/@kraftsenter.onmicrosoft.com#/access-packages/599577f1-b114-4d65-ac07-87648990d646).
 
-4. Grab a cup of ☕ and wait for the [DevEx](mailto:devex@aenergi.no) team to approve your request. We can be quite busy some times. If you are in a real hurry, don't send a 🕊️, contact us on Teams instead 🖖
+4. Grab a cup of ☕ and wait for the sync from EntraID to GitHub to happen (up til 40 minutes). 
 
-5. When the request is approved - you will get an email with an invitation from GitHub. In the invitation process your EntraID account is linked to your GitHub account. You need to enable MFA at your GitHub account. 
+5. After a while you will get email with an invitation from GitHub. In the invitation process your EntraID account is linked to your GitHub account. You need to enable MFA at your GitHub account. 
 
 6. If you want to use GHitHub Copilot Business License , you can apply for the [Copilot access package](https://myaccess.microsoft.com/@kraftsenter.onmicrosoft.com#/access-packages/df5f7c33-967c-473d-b3a8-b479279884c2)
